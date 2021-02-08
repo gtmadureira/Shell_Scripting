@@ -1,0 +1,5 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+Manifest-version: 1.0
+Main-Class: ${package}.Main
